@@ -1,0 +1,2 @@
+Class-Path: jtds-1.2.5.jar ojdbc6.jar sqljdbc4.jar
+Main-Class: kobler.RunSQLScripts
